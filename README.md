@@ -1,6 +1,8 @@
 # Todo App Crash Course(Vue)
 
-## **" followed youtube crash course of Traversy Media**
+## **"From youtube crash course of Traversy Media**
+
+![Image](https://github.com/daonez/vue_crash_course_todolist/blob/master/src/vue_crashcourse.png?raw=true)
 
 ## Project setup
 
